@@ -8,7 +8,7 @@ Recommended repository name: `rc-course-alert`
 
 ## Domain candidates
 
-First candidate: `rccoursealert.jp`
+Confirmed domain: `rccoursealert.jp`
 
 Other candidates:
 
