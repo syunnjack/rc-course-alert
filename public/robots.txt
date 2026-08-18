@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rc-course-alert.vercel.app/sitemap.xml
+Sitemap: https://rccoursealert.jp/sitemap.xml
