@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://rccoursealert.jp/sitemap.xml
+Disallow: /

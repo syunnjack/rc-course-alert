@@ -1,7 +1,4 @@
-# RC Course Alert
+# rccoursealert.jp
 
-コース営業、大会、路面状況、パーツ入荷を通知し、施設送客とパーツECへつなげる。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 施設送客, パーツEC, 大会告知, スポンサー, 遠征宿
-Primary categories: 営業, 大会, 路面, パーツ, ミニ四駆
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
